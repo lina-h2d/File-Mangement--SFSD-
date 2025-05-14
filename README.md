@@ -130,12 +130,11 @@ Licence
 
 ## Contributeurs
 
-- *Lina Haddad* / matricule : 232331547609
-- *Souad Tayebi* / matricule : 232331684620 
-- *Rania Amoura* / matricule : 232331566815
-- *Melissa Ahlem Dahmouche* / matricule : 232331551414
+- *Lina Haddad* 
+- *Souad Tayebi* 
+- *Rania Amoura* 
+- *Melissa Ahlem Dahmouche* 
 
-- Section: `c` Groupe : `3`
 
 
 
